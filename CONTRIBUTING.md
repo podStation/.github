@@ -1,4 +1,4 @@
-# Contributing to Social RSS
+# Contributing to podStation
 
 This are the types of contributions we are currently looking for (but not limited to):
 * ideas
